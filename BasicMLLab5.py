@@ -1,4 +1,4 @@
-# logistic regression 좌표#
+## logistic regression 좌표##
 import os
 os.environ['TF_CPP_MIN_LOG_LEVEl'] = '2'
 import numpy as np
